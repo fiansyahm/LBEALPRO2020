@@ -1,0 +1,41 @@
+.fiansyah{
+    background-color: blueviolet;
+    color: burlywood;
+}
+.tulisan{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.marginal{
+    background-color: red;
+    padding:20px 30px 40px 20px ;
+    margin-left: 10px;
+}
+
+.borderer{
+    border-style: groove;
+    border-color: rgb(red, green, blue);
+    border-bottom: 10px;
+}
+
+h2,h3{
+    color: blue;
+}
+
+p a{
+    color: violet;
+}
+
+body{
+    background: url(https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//98/MTA-4936066/bsh_capsul_bsh_body_slim_herbal_30_capsule_obat_diet_penurun_berat_badan_pembakar_lemak_penahan_nafsu_makan_nutrisi_diet_multivitamin_pelangsing_full04_rx5p7yor.jpg);
+}
+
+div h2{
+    color: yellowgreen;
+}
+
+h2{
+    color: tomato;
+}
